@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "778463962975",
+    "project_id": "ecommercesneakers-f1c71",
+    "storage_bucket": "ecommercesneakers-f1c71.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:778463962975:android:8596306e4f43a5400c38ea",
+        "android_client_info": {
+          "package_name": "com.package.ecommerceSneakers"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCs-Nhv_E7McuCGcMs1TtKIZ999-7haPKQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
